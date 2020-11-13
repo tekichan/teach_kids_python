@@ -5,6 +5,7 @@
 
 ## 目錄
 - [簡介](#intro)
+- [安裝軟件](#install)
 - [第一課：基本編程概念](/lesson1/)
 - [第二課：變量](/lesson2/)
 - [第三課：條件](/lesson3/)
@@ -23,8 +24,14 @@
 
 其實，教導兒童Python的材料在網上多不勝數，當中不乏英語及國語的講學，而廣東話的卻寥寥可數。有見及此，我嘗試在此拋磚引玉。一方面，以廣東話為母語的小朋友可以初嘗真實編寫程的趣味及滿足感；另一方面，希望可以引發各位教育工作者的興趣和注意，鼓勵製作更多更專業的Python編程教材。
 
-### 軟件安裝
+<a name="install"></a>
+
+### 安裝軟件
 前往Python官方網站[https://www.python.org/](https://www.python.org/)，下載適合自己電腦作業系統（Windows、Linux或MacOS）的版本。本教學是使用Python 3的，選擇最新版本就可以了。
 
-### 作者聯絡
+至於編輯器，最基本的話，在Windows可使用**筆記本（Notepad）**或在Mac可使用**TextEdit**。不過，我會強烈建議安裝編程專用的編輯器，可以為自己省卻不少後續功夫。本課程中，我會使用Visual Studio Code。你可以到[https://code.visualstudio.com/](https://code.visualstudio.com/)，下載適合自己電腦作業系統的版本。
+
+執行Python的時候，我們須要輸入指令運行**python3**執行檔。在Windows，可使用「命令提示字元」（CMD）或在MacOS，可使用「Terminal」。不過，最方便的方法是你已經安裝了Visual Studio Code，在菜單上選擇Terminal，再選擇New Terminal便可以開啟TERMINAL視窗來輸入執行Python執行檔。
+
+### 聯絡作者
 - Teki Chan *tekichan@gmail.com*
