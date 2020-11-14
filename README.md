@@ -33,5 +33,18 @@
 
 執行Python的時候，我們須要輸入指令運行**python3**執行檔。在Windows，可使用「命令提示字元」（CMD）或在MacOS，可使用「Terminal」。不過，最方便的方法是你已經安裝了Visual Studio Code，在菜單上選擇Terminal，再選擇New Terminal便可以開啟TERMINAL視窗來輸入執行Python執行檔。
 
+![Introduction to VS Code](intro_vs_code_for_python.png)
+（上圖為Visual Studio Code簡介）
+
+假如你儲存代碼至`my_python.py`，你便可以在Windows的「命令提示字元」或Visual Studio Code的Terminal執行：
+```cmd
+python3.exe my_python.py
+```
+
+MacOS的用戶，可以在「Terminal」或Visual Studio Code的Terminal執行：
+```zsh
+python3 my_python.py
+```
+
 ### 聯絡作者
 - Teki Chan *tekichan@gmail.com*
