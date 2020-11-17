@@ -1,4 +1,9 @@
 # 第一課：基本編程概念
+
+第一課的視頻：
+
+[![Lesson 1](https://img.youtube.com/vi/Yf94am_VaUo/0.jpg)](https://youtu.be/Yf94am_VaUo)
+
 本課是介紹基本編程概念。編程就是編寫程序，通過電腦可以理解的文字，按照既定的運算方式，執行我們給予電腦的指示。這課的第一個例子就是叫電腦繪畫一個圓形：
 ```python
 circle(50)
