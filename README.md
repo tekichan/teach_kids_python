@@ -10,7 +10,7 @@
 - [第二課：變量](/lesson2/)
 - [第三課：條件](/lesson3/)
 - [第四課：for循環](/lesson4/)
-- [第五課：while循環]
+- [第五課：while循環](/lesson5/)
 - [第六課：函數]
 
 <a name="intro"></a>
@@ -34,7 +34,7 @@
 <a name="install"></a>
 
 ### 安裝軟件
-我聽到不少家長的意見，不知如何開始學習Python，因為Python或其它實際的編程語言，從編程、除錯、執行等部驟都需要編程員親自處理，不像Scratch等學習平台已經預備好工作環境，所以好點兒老鼠拉龜。工欲善其事，必先利其器。好的工具確實可以讓工作事半功倍。現附上視頻簡介如何打造適合新手的開發環境。
+我聽到不少家長的意見，不知如何開始學習Python，因為Python或其它實際的編程語言，從編程、除錯、執行等部驟都需要編程員親自處理，不像Scratch等學習平台已經預備好工作環境，所以好點兒老鼠拉龜。工欲善其事，必先利其器。好的工具確實可以讓工作事半功倍。現附上[視頻簡介如何打造適合新手的開發環境](https://youtu.be/v0MixbRW2k8)。
 
 [![How to install Python and VS Code](https://img.youtube.com/vi/v0MixbRW2k8/0.jpg)](https://youtu.be/v0MixbRW2k8)
 

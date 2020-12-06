@@ -1,6 +1,6 @@
 # 第一課：基本編程概念
 
-第一課的視頻：
+[第一課的視頻](https://youtu.be/Yf94am_VaUo)：
 
 [![Lesson 1](https://img.youtube.com/vi/Yf94am_VaUo/0.jpg)](https://youtu.be/Yf94am_VaUo)
 
@@ -43,3 +43,7 @@ forward(50)     # 再向前行50步來畫最後一條邊
 當中 **forward()** 是叫箭頭向前的指令； **right()** 是向右的指令； **#** 後的是注釋，方便編程者提醒自己或向其它人解釋當中的意思。
 
 ![Explain Square](explain_square.png)
+
+## 挑戰題
+
+瀏覽官方網頁[https://docs.python.org/3.9/library/turtle.html](https://docs.python.org/3.9/library/turtle.html)，抽取幾個關於turtle的操作方法，例如：home()、bgcolor()等，嘗試加入到自己的python代碼，並執行一下，看看有什麼結果？
