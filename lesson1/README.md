@@ -12,7 +12,7 @@ circle(50)
 
 ![Explain Circle](explain_circle.png)
 
-你也可以嘗試直譯本課的代碼**first_turtle.py**。除了上述畫圓的指令，還有另外兩行代碼，它們會在以後的代碼中都會出現。其解釋如下：
+你也可以嘗試直譯本課的代碼[**first_turtle.py**](first_tutle.py)。除了上述畫圓的指令，還有另外兩行代碼，它們會在以後的代碼中都會出現。其解釋如下：
 ```python
 from turtle import *
 # 引入turtle程式庫，讓我們可以使用繪畫的功能
