@@ -18,6 +18,12 @@ forward(side_length)
 ```
 `side_length`這個變量便被運用到`forward()`這個指令去。
 
-本課的例子除了加入變量，還使用`fillcolor()`、`begin_fill()`和`end_fill()`為正方形添上色彩。注意顏色的變量值是字串，需要使用引號`'`前後包著，例如：`yellow`和`green`。
+本課的例子[**draw_square**](/lesson2/draw_square.py)除了加入變量，還使用`fillcolor()`、`begin_fill()`和`end_fill()`為正方形添上色彩。注意顏色的變量值是字串，需要使用引號`'`前後包著，例如：`yellow`和`green`。
 
 你下載代碼後，不如試試更改邊長和顏色的變量值，看看有什麼效果？
+
+## 挑戰題
+
+利用函數`input()`來獲取用戶輸入的正方形邊長的數值，並根據該輸入的數值來繪畫正方形。代碼可參考[input_draw_square.py](/lesson2/input_draw_square.py)。
+
+`input()`是獲取用戶輸入數據的函數。該函數的參數可以略去或是問題句子，例如：`input('你今年讀什麼年班？ ')`。而該函數會返回字串的值，你可以把返回值儲存到一個變量去，例如：`class_grade = input('你今年讀什麼年班？ ')`。注意！`input()`的返回值的類型是字串，如果你想利用那返回值作數學運算，必須先轉換類型，例如：`int_class_grade = int(class_grade)`便可以把`class_grade`這個字串變量轉換成整數，並儲存在`int_class_grade`這個新變量去。
