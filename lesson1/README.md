@@ -44,6 +44,8 @@ forward(50)     # 再向前行50步來畫最後一條邊
 
 ![Explain Square](explain_square.png)
 
+附上例子的完整代碼 [**draw_square.py**](/lesson1/draw_square.py)。
+
 ## 挑戰題
 
 瀏覽官方網頁[https://docs.python.org/3.9/library/turtle.html](https://docs.python.org/3.9/library/turtle.html)，抽取幾個關於turtle的操作方法，例如：home()、bgcolor()等，嘗試加入到自己的python代碼，並執行一下，看看有什麼結果？
