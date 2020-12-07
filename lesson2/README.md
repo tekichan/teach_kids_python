@@ -18,7 +18,7 @@ forward(side_length)
 ```
 `side_length`這個變量便被運用到`forward()`這個指令去。
 
-本課的例子[**draw_square**](/lesson2/draw_square.py)除了加入變量，還使用`fillcolor()`、`begin_fill()`和`end_fill()`為正方形添上色彩。注意顏色的變量值是字串，需要使用引號`'`前後包著，例如：`yellow`和`green`。
+本課的例子[**draw_square.py**](/lesson2/draw_square.py)除了加入變量，還使用`fillcolor()`、`begin_fill()`和`end_fill()`為正方形添上色彩。注意顏色的變量值是字串，需要使用引號`'`前後包著，例如：`yellow`和`green`。
 
 你下載代碼後，不如試試更改邊長和顏色的變量值，看看有什麼效果？
 
