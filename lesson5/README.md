@@ -24,4 +24,4 @@ while i <= 10:
     i = i + 2   # i is increased by 2 every time
 ```
 
-本課的例子便使用`while`來幫助用家每隔某固定角度重覆繪畫圓形，從而組成有趣的圖案。
+本課的例子代碼 [**circle_pattern.py**](/lesson5/circle_pattern.py) 便使用`while`來幫助用家每隔某固定角度重覆繪畫圓形，從而組成有趣的圖案。

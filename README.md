@@ -11,7 +11,7 @@
 - [第三課：條件](/lesson3/)
 - [第四課：for循環](/lesson4/)
 - [第五課：while循環](/lesson5/)
-- [第六課：函數]
+- [第六課：函數](/lesson6/)
 
 <a name="intro"></a>
 
