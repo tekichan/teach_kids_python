@@ -1,4 +1,4 @@
-# Teach Kids Python in Cantonese
+# 小朋友學Python（廣東話）
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](/LICENSE) 
 
 這是一個關於教導兒童Python編程的項目庫。我希望這個項目可以為主要以廣東話為母語的小朋友開啟既簡單又有趣的Python編程教學。 
@@ -12,6 +12,7 @@
 - [第四課：for循環](/lesson4/)
 - [第五課：while循環](/lesson5/)
 - [第六課：函數](/lesson6/)
+- [第七課：陣列](/lesson7/)
 
 <a name="intro"></a>
 
